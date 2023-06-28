@@ -9,7 +9,7 @@ var points = [
    }
    
    
-   /// Add more points
+   // Add more points
  ];
  
  
