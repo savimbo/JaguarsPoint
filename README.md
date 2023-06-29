@@ -1,4 +1,4 @@
-## Objective
+The main code resides in the file jaguares.js, which invokes the file pruebajaguares_chart.js containing the coordinates of the jaguars, and the file pruebaplot100H.js that specifies the location of the farm. The code should be executed in Google Earth Engine, which can be accessed at https://earthengine.google.com/.
 
 The objective of this algorithm is to incorporate additional fields in the Google Earth Engine metadata, such as:
 
