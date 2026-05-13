@@ -45,3 +45,7 @@ In the case of multiple sightings and intersecting species ranges, we will avoid
 | 2023-02-01 to 2023-02-09        | 30 hectares per day |
 
 This way, the algorithm calculates the credits per hectare based on the sightings, dates, radii, and species intersections in a given area.
+
+### Support
+
+Documentation supported by GitBook. https://www.gitbook.com/ 
